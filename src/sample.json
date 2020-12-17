@@ -1,0 +1,16 @@
+[ 
+{
+    "id": "1",
+    "titulo": "aliens",
+    "director": "james cameron",
+    "year": "1980",
+    "rating": "8.5"
+},
+{
+    "id": "2",
+    "titulo": "regreso al futuro",
+    "director": "james cameron",
+    "year": "1984",
+    "rating": "8.3"
+}
+]
